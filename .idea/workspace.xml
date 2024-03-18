@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17e076b0-99bd-43fe-acc9-d75770198868" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/alugames/service/ConsumerApi.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Jogo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Jogo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/InfoApiShark.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/alugames/model/InfoApiShark.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/InfoJogo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/alugames/model/InfoGame.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Jogo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/alugames/model/Game.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/alugames/main/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -47,9 +50,17 @@
     "last_opened_file_path": "/media/renato/e03751b3-666b-4b6e-aadc-9b2d90cc47d1/alugames"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/br/com/alura/alugames/main" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="br.com.alura.alugames.modelo" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.alugames.main.MainKt" />
       <module name="alugames" />
       <method v="2">
         <option name="Make" enabled="true" />

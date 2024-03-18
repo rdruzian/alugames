@@ -1,4 +1,4 @@
-import com.google.gson.annotations.SerializedName
+package br.com.alura.alugames.model
 
 data class InfoApiShark(
     val title: String,
