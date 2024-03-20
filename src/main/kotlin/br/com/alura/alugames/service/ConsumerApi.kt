@@ -1,6 +1,5 @@
 package br.com.alura.alugames.service
 
-import br.com.alura.alugames.model.Game
 import br.com.alura.alugames.model.InfoGame
 import com.google.gson.Gson
 import java.net.URI
